@@ -58,7 +58,7 @@ Blurring:
 - Sharpening: Enhances the details and sharpness of the image.
 - Blurring: Makes the image look softer and more blurry.
 
-## 📈 How to Run
+## 🏗 How to Run
 
 1️⃣ Clone this repository
 ```bash
